@@ -1,4 +1,4 @@
-module github.com/nitheesh-cpu/HomeAccessCenterAPI-Golang
+module github.com/niftynandika/HomeAccessCenterAPIv2
 
 go 1.19
 
